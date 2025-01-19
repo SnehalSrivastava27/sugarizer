@@ -42,7 +42,7 @@ var planets = [
   {
     "name": "Jupiter",
     "type": "Gas Giant",
-    "moons": "79",
+    "moons": "95",
     "mass": "1,898,130,000,000,000,000,000,000,000 kg",
     "year": "4,333",
     "temperature": "No Data",
@@ -52,7 +52,7 @@ var planets = [
   {
     "name": "Saturn",
     "type": "Gas Giant",
-    "moons": "83",
+    "moons": "146",
     "mass": "568,319,000,000,000,000,000,000,000 kg",
     "year": "10,759",
     "temperature": "No Data",
@@ -62,7 +62,7 @@ var planets = [
   {
     "name": "Uranus",
     "type": "Ice Giant",
-    "moons": "27",
+    "moons": "28",
     "mass": "86,810,300,000,000,000,000,000,000 kg",
     "year": "30,687",
     "temperature": "No Data",
@@ -72,7 +72,7 @@ var planets = [
   {
     "name": "Neptune",
     "type": "Ice Giant",
-    "moons": "14",
+    "moons": "16",
     "mass": "102,410,000,000,000,000,000,000,000 kg",
     "year": "60,190",
     "temperature": "No Data",
